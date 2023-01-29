@@ -1,0 +1,450 @@
+#header {
+    background-color: goldenrod;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#About {
+    background-color: cyan;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+h1 img {
+    width: 100px;
+}
+h1 {
+    font-size: 60px;
+    font-family: verdana;
+}
+h2 {
+    margin-left: 15px;
+    margin-top: 1px;
+    font-family: verdana;
+}
+#menu {
+    background-color: gray;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#menu a {
+    margin: 10px;
+    color: gold;
+}
+h3 {
+    font-family: verdana;
+}
+h4 {
+    font-family: verdana;
+    margin: 10px;
+}
+h5 {
+    font-family: verdana;
+}
+h6 {
+    font-family: verdana;
+    font-size: 15px;
+}
+p {
+    font-family: verdana;
+}
+h6 em {
+    float: right;
+}
+#ptag:hover {
+    cursor: pointer;
+}
+h4 a {
+    color: blue;
+}
+h5 a {
+    color: black;
+}
+#header2 {
+    background-color: goldenrod;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+    margin-top: 120px;
+}
+
+#header2 a {
+    color: blue;
+}
+#Chickens {
+    background-color: green;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Native {
+    background-color: red;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Silkie {
+    background-color: royalblue;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+p img {
+    margin: 10px;
+    border-radius: 4px;
+}
+#video {
+    width:320px;
+    margin: 10px;
+}
+#Broilers {
+    background-color: lightcoral;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Brahma {
+    background-color: lightseagreen;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Plymouth {
+    background-color: coral;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Sussex {
+    background-color: blueviolet;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Ayam {
+    background-color: peru;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Ameraucana {
+    background-color: olivedrab;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Leghorn {
+    background-color: orchid;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Ayam-C {
+    background-color: rosybrown;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Polish {
+    background-color: seagreen;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Rhode {
+    background-color: crimson;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Indian {
+    background-color: mediumspringgreen;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Marans {
+    background-color: mediumorchid;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Orpington {
+    background-color: mediumslateblue;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Asil {
+    background-color: turquoise;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Shamo {
+    background-color: magenta;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Lohman {
+    background-color: maroon;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Araucana {
+    background-color: lawngreen;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Australorp {
+    background-color: lightslategray;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Japneese {
+    background-color: green;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Cochin {
+    background-color: red;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Wyandotte {
+    background-color: royalblue;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Jersey {
+    background-color: lightcoral;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Burmese {
+    background-color: lightseagreen;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Kadaknath {
+    background-color: coral;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#ISA {
+    background-color: blueviolet;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Padovana {
+    background-color: peru;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Frizzle {
+    background-color: olivedrab;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Feral {
+    background-color: orchid;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Serama {
+    background-color: rosybrown;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Naked-N {
+    background-color: seagreen;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Hamisphere {
+    background-color: crimson;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Fayoumi {
+    background-color: mediumspringgreen;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Dong {
+    background-color: mediumorchid;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Barnevelder {
+    background-color: mediumslateblue;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Amrock {
+    background-color: turquoise;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Sundheimer {
+    background-color: magenta;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Sulmtaler {
+    background-color: maroon;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Sebright {
+    background-color: lawngreen;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Kuroiler {
+    background-color: lightslategray;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Legbar {
+    background-color: cyan;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Vorwerk {
+    background-color: green;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Indian2 {
+    background-color: red;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Green {
+    background-color: royalblue;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Hisex {
+    background-color: lightcoral;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Pekin {
+    background-color: lightseagreen;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Faverolles {
+    background-color: coral;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Swedish {
+    background-color: blueviolet;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Welsummer {
+    background-color: peru;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
+#Bielefelder {
+    background-color: goldenrod;
+    margin: 20px 0 20px 0;
+    height: auto;
+    width: 100%;
+    border: 1px 1 #ddd;
+}
